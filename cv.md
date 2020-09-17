@@ -29,8 +29,8 @@ GitHub | 2/5
 - As part of the course work at college made sudoky pazzle, websites, task planner.
 
 ### Completed courses:
-- 'WEB layout DESIGNER: BEGINNING' from the Academy WayUp in september 2020. 
-- 'THE WEB DESIGNER AN EXPLOSIVE START 2.0' from the Academy WayUp in september 2020. 
+- 'WEB layout DESIGNER: BEGINNING' from the Academy WayUp in september 2020 
+- 'THE WEB DESIGNER AN EXPLOSIVE START 2.0' from the Academy WayUp in september 2020 
 
 ### English level -B1
 2012-2017 studied advanced english at Gimnazium, 2017-2020 studied english at affiliate BSUIR "Minsk Radioengineering College".
